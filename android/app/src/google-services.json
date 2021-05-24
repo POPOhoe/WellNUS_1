@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190429536004",
+    "project_id": "wellnus-f9ef0",
+    "storage_bucket": "wellnus-f9ef0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190429536004:android:2cff7a6fbe638437663a51",
+        "android_client_info": {
+          "package_name": "com.wellnus_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190429536004-jdoc0s07g2upj4d9dp8jlb2rqe5t3cdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXidiZac_Ykgd4dV8Fh-89ngx7jjX3WBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190429536004-jdoc0s07g2upj4d9dp8jlb2rqe5t3cdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
